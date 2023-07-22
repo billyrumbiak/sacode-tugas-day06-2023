@@ -1,5 +1,10 @@
  # Tugas Day 06 2023
 
-## Hasil
+ ## Website
 
-<img src="hasil.png">
+ https://billyrumbiak.github.io/sacode-tugas-day06-2023/
+
+ ## Hasil
+
+ <img src="hasil.png">
+
